@@ -1,0 +1,6 @@
+UBFC_rPPG:
+  data_path: "/share2/data/zhouwenqing/UBFC_rPPG/dataset2"
+  output_path: "/share2/data/zhouwenqing/VIPL-HR/data/p23/v4/source3/UBFC_rPPG_npy"
+PURE:
+  data_path: "/share2/data/zhouwenqing/PURE"
+  output_path: "/share2/data/zhouwenqing/VIPL-HR/data/p76/v1/source1/PURE_npy"
